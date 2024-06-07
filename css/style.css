@@ -872,7 +872,7 @@ ul,ol {
   font-weight: 400;
   font-size: 12px;
   line-height: 14px;
-  line-height: 1.17;
+  line-height: 1.16667;
   letter-spacing: 0.04em;
   color: #8e8f99;
 }
@@ -903,7 +903,7 @@ ul,ol {
 
 .input-privacy-link {
   line-height: 16px;
-  line-height: 1.33;
+  line-height: 1.33333;
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
